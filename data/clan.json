@@ -3,7 +3,7 @@
   "clan": "ViCtOrY SqUaD",
   "tag": "#CYG089CY",
   "season": "Novembre 2026",
-  "updated": "2026-11-15 16:19 UTC",
+  "updated": "2026-11-15 20:50 UTC",
   "source": "api",
   "test": true,
   "info": {
@@ -25,6 +25,27 @@
    "description": "Non siamo un clan, siamo una squadra🔥\nCostanti nella crescita, affamati di vittorie. Se hai una buona base e vuoi fare la differenza, entra ora e fatti conoscere⚔️\nInsieme ci eleviamo, insieme conquistiamo. Più uniti, più in alto, più lontano✨"
   },
   "moves": [
+   {
+    "time": "2026-11-15T20:43:03.958Z",
+    "type": "leave",
+    "tag": "#20RQG98C8",
+    "name": "ThatsRiot",
+    "townHallLevel": 18
+   },
+   {
+    "time": "2026-11-15T19:40:30.889Z",
+    "type": "join",
+    "tag": "#882UY8QP0",
+    "name": "Peppe",
+    "townHallLevel": 18
+   },
+   {
+    "time": "2026-11-15T19:40:30.889Z",
+    "type": "join",
+    "tag": "#9CQCGYP8R",
+    "name": "IL BELL'ANTONIO",
+    "townHallLevel": 18
+   },
    {
     "time": "2026-11-15T16:12:04.149Z",
     "type": "join",
@@ -87,69 +108,49 @@
     "tag": "#8CULJRP9G",
     "name": "ned84",
     "townHallLevel": 18
-   },
-   {
-    "time": "2026-11-14T11:01:49.001Z",
-    "type": "leave",
-    "tag": "#P8CQ2PYQL",
-    "name": "FAZLiDDiN",
-    "townHallLevel": 18
-   },
-   {
-    "time": "2026-11-14T10:20:11.247Z",
-    "type": "join",
-    "tag": "#P8CQ2PYQL",
-    "name": "FAZLiDDiN",
-    "townHallLevel": 18
-   },
-   {
-    "time": "2026-11-14T02:00:21.379Z",
-    "type": "leave",
-    "tag": "#9CC9Y9R88",
-    "name": "ÆNTŒNIŒ RUSSŒ",
-    "townHallLevel": 18
    }
   ],
   "don": {
    "src": "live",
-   "asOf": "15/11/26, 17:19",
-   "total": 25553,
+   "asOf": "15/11/26, 21:50",
+   "total": 26337,
    "by": {
-    "#2PL08PGQ2": 2374,
+    "#2PL08PGQ2": 2533,
     "#828UCPYLJ": 151,
     "#JG8YQ2PG": 935,
     "#989JGRCGR": 450,
     "#G82QRC09Y": 753,
-    "#RUG2QQ22": 196,
-    "#22QGLRR8U": 409,
     "#2YLRPQJYU": 702,
+    "#RUG2QQ22": 251,
+    "#22QGLRR8U": 413,
     "#2PLGY0LUQ": 489,
+    "#882UY8QP0": 87,
     "#PR2CJQJG9": 148,
-    "#QGY82J8YU": 764,
+    "#QGY82J8YU": 787,
     "#GLUGJ0UQP": 1644,
     "#LUPCPVR20": 193,
+    "#8GUP8VP88": 47,
     "#9LYL0QC": 220,
-    "#P0Q9Q99VJ": 780,
+    "#P0Q9Q99VJ": 835,
     "#9GLCVPL": 366,
     "#LJVVC8PQ2": 0,
     "#9U8LRQUY": 0,
     "#JG9U2CJC": 118,
-    "#G9QRGVRLP": 2150,
-    "#8CULJRP9G": 0,
+    "#G9QRGVRLP": 2239,
+    "#8CULJRP9G": 59,
+    "#20J0VQY2J": 591,
+    "#9UGRGY0YJ": 120,
     "#Y9CRVQU9Y": 1694,
     "#QP8G9LR8": 11,
-    "#8GUP8VP88": 47,
     "#YGLRCCJQ8": 165,
-    "#9UGRGY0YJ": 120,
     "#2G9PYQUV": 506,
-    "#20J0VQY2J": 532,
     "#LYPRUY92J": 0,
-    "#20RQG98C8": 57,
-    "#8U0099VY": 4120,
+    "#8U0099VY": 4312,
     "#VY2U8PYJ": 312,
-    "#280V80URU": 1334,
+    "#280V80URU": 1393,
     "#L0PVQPVG8": 0,
     "#Y9PY9J9RL": 81,
+    "#9CQCGYP8R": 0,
     "#2C0L2LYQ": 176,
     "#QLJLV2CYQ": 763,
     "#2U8V000L": 59,
@@ -173,7 +174,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 2374
+   "donations": 2533
   },
   {
    "tag": "#828UCPYLJ",
@@ -216,26 +217,6 @@
    "donations": 753
   },
   {
-   "tag": "#RUG2QQ22",
-   "name": "ax",
-   "th": 18,
-   "role": "admin",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 196
-  },
-  {
-   "tag": "#22QGLRR8U",
-   "name": "ᵛₛ✨ClishonStenx",
-   "th": 18,
-   "role": "coLeader",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 409
-  },
-  {
    "tag": "#2YLRPQJYU",
    "name": "ᵛₛ✨ Mac",
    "th": 18,
@@ -246,6 +227,26 @@
    "donations": 702
   },
   {
+   "tag": "#RUG2QQ22",
+   "name": "ax",
+   "th": 18,
+   "role": "admin",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 251
+  },
+  {
+   "tag": "#22QGLRR8U",
+   "name": "ᵛₛ✨ClishonStenx",
+   "th": 18,
+   "role": "coLeader",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 413
+  },
+  {
    "tag": "#2PLGY0LUQ",
    "name": "RUSTA®️",
    "th": 18,
@@ -254,6 +255,16 @@
    "lastCwl": "",
    "warPref": "in",
    "donations": 489
+  },
+  {
+   "tag": "#882UY8QP0",
+   "name": "Peppe",
+   "th": 18,
+   "role": "admin",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 87
   },
   {
    "tag": "#PR2CJQJG9",
@@ -273,7 +284,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 764
+   "donations": 787
   },
   {
    "tag": "#GLUGJ0UQP",
@@ -296,6 +307,16 @@
    "donations": 193
   },
   {
+   "tag": "#8GUP8VP88",
+   "name": "ᵛₛ✨Gerlando",
+   "th": 18,
+   "role": "admin",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 47
+  },
+  {
    "tag": "#9LYL0QC",
    "name": "Svik86",
    "th": 18,
@@ -313,7 +334,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "out",
-   "donations": 780
+   "donations": 835
   },
   {
    "tag": "#9GLCVPL",
@@ -363,7 +384,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 2150
+   "donations": 2239
   },
   {
    "tag": "#8CULJRP9G",
@@ -373,7 +394,27 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "out",
-   "donations": 0
+   "donations": 59
+  },
+  {
+   "tag": "#20J0VQY2J",
+   "name": "Max®️",
+   "th": 18,
+   "role": "admin",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 591
+  },
+  {
+   "tag": "#9UGRGY0YJ",
+   "name": "lefleurdumal",
+   "th": 18,
+   "role": "admin",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 120
   },
   {
    "tag": "#Y9CRVQU9Y",
@@ -396,16 +437,6 @@
    "donations": 11
   },
   {
-   "tag": "#8GUP8VP88",
-   "name": "ᵛₛ✨Gerlando",
-   "th": 18,
-   "role": "admin",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 47
-  },
-  {
    "tag": "#YGLRCCJQ8",
    "name": "NOT PEKUS",
    "th": 18,
@@ -414,16 +445,6 @@
    "lastCwl": "",
    "warPref": "in",
    "donations": 165
-  },
-  {
-   "tag": "#9UGRGY0YJ",
-   "name": "lefleurdumal",
-   "th": 18,
-   "role": "admin",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 120
   },
   {
    "tag": "#2G9PYQUV",
@@ -436,16 +457,6 @@
    "donations": 506
   },
   {
-   "tag": "#20J0VQY2J",
-   "name": "Max®️",
-   "th": 18,
-   "role": "admin",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 532
-  },
-  {
    "tag": "#LYPRUY92J",
    "name": "rapa",
    "th": 18,
@@ -456,16 +467,6 @@
    "donations": 0
   },
   {
-   "tag": "#20RQG98C8",
-   "name": "ThatsRiot",
-   "th": 18,
-   "role": "admin",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 57
-  },
-  {
    "tag": "#8U0099VY",
    "name": "<LEONE>*73",
    "th": 18,
@@ -473,7 +474,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 4120
+   "donations": 4312
   },
   {
    "tag": "#VY2U8PYJ",
@@ -482,7 +483,7 @@
    "role": "admin",
    "joined": "2026-11-15",
    "lastCwl": "",
-   "warPref": "out",
+   "warPref": "in",
    "donations": 312
   },
   {
@@ -493,7 +494,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 1334
+   "donations": 1393
   },
   {
    "tag": "#L0PVQPVG8",
@@ -514,6 +515,16 @@
    "lastCwl": "",
    "warPref": "in",
    "donations": 81
+  },
+  {
+   "tag": "#9CQCGYP8R",
+   "name": "IL BELL'ANTONIO",
+   "th": 18,
+   "role": "admin",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 0
   },
   {
    "tag": "#2C0L2LYQ",
@@ -1837,6 +1848,7 @@
     "lando": 6,
     "ax": 6,
     "DaxIlmatto": 6,
+    "l'assassino": 1,
     "NOT PEKUS": 6,
     "ᵛₛ✨ Rikas": 6,
     "Svik86": 6,
@@ -1863,6 +1875,7 @@
     "IL BELL'ANTONIO": 6,
     "<LEONE>*73": 6,
     "Galaxy": 6,
+    "invisibile": 5,
     "ᵛₛ✨ Kocis": 6,
     "aaaaa": 6,
     "ᵛₛ✨ Nike": 6,
@@ -1870,6 +1883,7 @@
     "leo": 6,
     "gabriele": 6,
     "pachino1234": 6,
+    "Max®️": 6,
     "lello leo": 6,
     "ÆNTŒNIŒ RUSSŒ": 6,
     "boloultra": 6
