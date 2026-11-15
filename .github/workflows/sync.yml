@@ -1,0 +1,58 @@
+name: Sync dati clan e pubblica sito
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # ogni 30 minuti (GitHub può ritardare di qualche minuto)
+  workflow_dispatch:           # pulsante "Run workflow" per aggiornare a mano
+    inputs:
+      archive:
+        description: "Archivia subito la stagione in corso nella Stagione precedente"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths: ["index.html", "data/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Scarica dati da API Clash of Clans
+        if: github.event_name != 'push'
+        env:
+          COC_TOKEN: ${{ secrets.COC_TOKEN }}
+          CLAN_TAG: ${{ vars.CLAN_TAG || '#CYG089CY' }}  # TEST ViCtOrY SqUaD (MechanicaL: #2Q9YC0UCJ)
+          FORCE_ARCHIVE: ${{ inputs.archive || false }}
+        run: node scripts/sync.mjs
+
+      - name: Salva data/clan.json nel repository
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "mechanical-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/clan.json
+          git diff --staged --quiet || (git commit -m "sync dati $(date -u +%F' '%H:%M)" && git push)
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4
