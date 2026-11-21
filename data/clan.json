@@ -3,7 +3,7 @@
   "clan": "ViCtOrY SqUaD",
   "tag": "#CYG089CY",
   "season": "Novembre 2026",
-  "updated": "2026-11-20 23:16 UTC",
+  "updated": "2026-11-21 04:10 UTC",
   "source": "api",
   "test": true,
   "info": {
@@ -25,6 +25,13 @@
    "description": "Non siamo un clan, siamo una squadra🔥\nCostanti nella crescita, affamati di vittorie. Se hai una buona base e vuoi fare la differenza, entra ora e fatti conoscere⚔️\nInsieme ci eleviamo, insieme conquistiamo. Più uniti, più in alto, più lontano✨"
   },
   "moves": [
+   {
+    "time": "2026-11-21T00:39:34.352Z",
+    "type": "leave",
+    "tag": "#QP8G9LR8",
+    "name": "Alex",
+    "townHallLevel": 19
+   },
    {
     "time": "2026-11-20T22:52:56.082Z",
     "type": "join",
@@ -101,19 +108,12 @@
     "tag": "#GVVPY9VJY",
     "name": "ياسر",
     "townHallLevel": 19
-   },
-   {
-    "time": "2026-11-18T18:43:29.213Z",
-    "type": "leave",
-    "tag": "#9VGJ2",
-    "name": "[PKT]㊙️Kobra愛",
-    "townHallLevel": 19
    }
   ],
   "don": {
    "src": "live",
-   "asOf": "21/11/26, 00:16",
-   "total": 55243,
+   "asOf": "21/11/26, 05:10",
+   "total": 54985,
    "by": {
     "#2PL08PGQ2": 5336,
     "#989JGRCGR": 1511,
@@ -150,7 +150,6 @@
     "#2C0L2LYQ": 473,
     "#8VQPPLLPG": 5256,
     "#2U8V000L": 233,
-    "#QP8G9LR8": 258,
     "#QLJLV2CYQ": 2093,
     "#JULVUVRP": 455,
     "#QR8PLU20Y": 0,
@@ -512,16 +511,6 @@
    "lastCwl": "",
    "warPref": "in",
    "donations": 233
-  },
-  {
-   "tag": "#QP8G9LR8",
-   "name": "Alex",
-   "th": 19,
-   "role": "admin",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 258
   },
   {
    "tag": "#QLJLV2CYQ",
@@ -2584,8 +2573,14 @@
    "result": "",
    "atk": {
     "Alex": [
-     null,
-     null
+     {
+      "s": 2,
+      "eth": 19
+     },
+     {
+      "s": 2,
+      "eth": 19
+     }
     ],
     "lando": [
      null,
