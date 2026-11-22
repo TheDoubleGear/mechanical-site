@@ -3,7 +3,7 @@
   "clan": "ViCtOrY SqUaD",
   "tag": "#CYG089CY",
   "season": "Novembre 2026",
-  "updated": "2026-11-22 15:33 UTC",
+  "updated": "2026-11-22 21:33 UTC",
   "source": "api",
   "test": true,
   "info": {
@@ -112,48 +112,48 @@
   ],
   "don": {
    "src": "live",
-   "asOf": "22/11/26, 16:33",
-   "total": 57478,
+   "asOf": "22/11/26, 22:33",
+   "total": 57825,
    "by": {
-    "#2PL08PGQ2": 5500,
+    "#2PL08PGQ2": 5836,
     "#828UCPYLJ": 526,
     "#JG8YQ2PG": 1665,
-    "#PR2CJQJG9": 376,
-    "#989JGRCGR": 1953,
-    "#QGY82J8YU": 1156,
-    "#2YLRPQJYU": 4033,
+    "#PR2CJQJG9": 468,
+    "#989JGRCGR": 2015,
+    "#2YLRPQJYU": 5166,
+    "#QGY82J8YU": 1248,
     "#G82QRC09Y": 186,
-    "#Y9PY9J9RL": 1178,
-    "#9LYL0QC": 0,
-    "#GLUGJ0UQP": 2510,
-    "#L0PVQPVG8": 587,
-    "#22QGLRR8U": 379,
-    "#G9QRGVRLP": 5979,
-    "#RUG2QQ22": 438,
+    "#Y9PY9J9RL": 1316,
+    "#9LYL0QC": 94,
+    "#L0PVQPVG8": 606,
+    "#GLUGJ0UQP": 2604,
+    "#G9QRGVRLP": 6284,
+    "#2PLGY0LUQ": 1011,
+    "#22QGLRR8U": 466,
+    "#RUG2QQ22": 534,
     "#YGLRCCJQ8": 328,
     "#LJVVC8PQ2": 1228,
-    "#9U8LRQUY": 94,
-    "#9GLCVPL": 1781,
-    "#8CULJRP9G": 148,
-    "#LUPCPVR20": 1924,
-    "#280V80URU": 2200,
+    "#JG9U2CJC": 59,
+    "#9U8LRQUY": 188,
+    "#9GLCVPL": 1873,
+    "#8CULJRP9G": 275,
+    "#LUPCPVR20": 89,
     "#8GUP8VP88": 272,
-    "#JG9U2CJC": 0,
-    "#2PLGY0LUQ": 954,
-    "#20J0VQY2J": 801,
-    "#Q0P2CG2PU": 1548,
+    "#280V80URU": 2200,
+    "#20J0VQY2J": 860,
+    "#Q0P2CG2PU": 0,
     "#9UGRGY0YJ": 125,
-    "#8U0099VY": 7138,
+    "#8U0099VY": 7415,
     "#VY2U8PYJ": 0,
     "#LLGVG8PCR": 60,
     "#2C0L2LYQ": 473,
     "#8VQPPLLPG": 5256,
-    "#2U8V000L": 233,
+    "#2U8V000L": 288,
     "#JULVUVRP": 575,
     "#QLJLV2CYQ": 2358,
     "#QR8PLU20Y": 0,
-    "#Y9CRVQU9Y": 2590,
-    "#Q0PCUL8R": 807,
+    "#Y9CRVQU9Y": 2739,
+    "#Q0PCUL8R": 1020,
     "#20Y0QJR2": 119,
     "#P99C9GVY": 0,
     "#GJ9C2JQPY": 0
@@ -170,7 +170,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 5500
+   "donations": 5836
   },
   {
    "tag": "#828UCPYLJ",
@@ -200,7 +200,7 @@
    "joined": "2026-11-20",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 376
+   "donations": 468
   },
   {
    "tag": "#989JGRCGR",
@@ -210,17 +210,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "out",
-   "donations": 1953
-  },
-  {
-   "tag": "#QGY82J8YU",
-   "name": "ishtarr",
-   "th": 18,
-   "role": "admin",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 1156
+   "donations": 2015
   },
   {
    "tag": "#2YLRPQJYU",
@@ -230,7 +220,17 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 4033
+   "donations": 5166
+  },
+  {
+   "tag": "#QGY82J8YU",
+   "name": "ishtarr",
+   "th": 18,
+   "role": "admin",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 1248
   },
   {
    "tag": "#G82QRC09Y",
@@ -250,7 +250,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 1178
+   "donations": 1316
   },
   {
    "tag": "#9LYL0QC",
@@ -260,17 +260,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 0
-  },
-  {
-   "tag": "#GLUGJ0UQP",
-   "name": "aaaaa",
-   "th": 19,
-   "role": "admin",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 2510
+   "donations": 94
   },
   {
    "tag": "#L0PVQPVG8",
@@ -280,17 +270,17 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 587
+   "donations": 606
   },
   {
-   "tag": "#22QGLRR8U",
-   "name": "ᵛₛ✨ClishonStenx",
+   "tag": "#GLUGJ0UQP",
+   "name": "aaaaa",
    "th": 19,
-   "role": "leader",
+   "role": "admin",
    "joined": "2026-11-15",
    "lastCwl": "",
-   "warPref": "out",
-   "donations": 379
+   "warPref": "in",
+   "donations": 2604
   },
   {
    "tag": "#G9QRGVRLP",
@@ -300,7 +290,27 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 5979
+   "donations": 6284
+  },
+  {
+   "tag": "#2PLGY0LUQ",
+   "name": "RUSTA®️",
+   "th": 19,
+   "role": "admin",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 1011
+  },
+  {
+   "tag": "#22QGLRR8U",
+   "name": "ᵛₛ✨ClishonStenx",
+   "th": 19,
+   "role": "leader",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 466
   },
   {
    "tag": "#RUG2QQ22",
@@ -310,7 +320,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 438
+   "donations": 534
   },
   {
    "tag": "#YGLRCCJQ8",
@@ -333,6 +343,16 @@
    "donations": 1228
   },
   {
+   "tag": "#JG9U2CJC",
+   "name": "fedisbam",
+   "th": 19,
+   "role": "admin",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 59
+  },
+  {
    "tag": "#9U8LRQUY",
    "name": "Aron",
    "th": 19,
@@ -340,7 +360,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 94
+   "donations": 188
   },
   {
    "tag": "#9GLCVPL",
@@ -349,8 +369,8 @@
    "role": "coLeader",
    "joined": "2026-11-15",
    "lastCwl": "",
-   "warPref": "out",
-   "donations": 1781
+   "warPref": "in",
+   "donations": 1873
   },
   {
    "tag": "#8CULJRP9G",
@@ -360,27 +380,17 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "out",
-   "donations": 148
+   "donations": 275
   },
   {
    "tag": "#LUPCPVR20",
    "name": "ᵛₛ✨ Scarab",
    "th": 19,
-   "role": "coLeader",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 1924
-  },
-  {
-   "tag": "#280V80URU",
-   "name": "leo",
-   "th": 19,
    "role": "admin",
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 2200
+   "donations": 89
   },
   {
    "tag": "#8GUP8VP88",
@@ -393,24 +403,14 @@
    "donations": 272
   },
   {
-   "tag": "#JG9U2CJC",
-   "name": "fedisbam",
-   "th": 19,
-   "role": "member",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 0
-  },
-  {
-   "tag": "#2PLGY0LUQ",
-   "name": "RUSTA®️",
+   "tag": "#280V80URU",
+   "name": "leo",
    "th": 19,
    "role": "admin",
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 954
+   "donations": 2200
   },
   {
    "tag": "#20J0VQY2J",
@@ -420,7 +420,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 801
+   "donations": 860
   },
   {
    "tag": "#Q0P2CG2PU",
@@ -430,7 +430,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 1548
+   "donations": 0
   },
   {
    "tag": "#9UGRGY0YJ",
@@ -450,7 +450,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 7138
+   "donations": 7415
   },
   {
    "tag": "#VY2U8PYJ",
@@ -500,7 +500,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 233
+   "donations": 288
   },
   {
    "tag": "#JULVUVRP",
@@ -540,7 +540,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 2590
+   "donations": 2739
   },
   {
    "tag": "#Q0PCUL8R",
@@ -550,7 +550,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 807
+   "donations": 1020
   },
   {
    "tag": "#20Y0QJR2",
@@ -3021,12 +3021,15 @@
    "att": {
     "lando": 6,
     "ax": 6,
+    "DaxIlmatto": 6,
     "NOT PEKUS": 6,
     "ᵛₛ✨ Rikas": 6,
     "Svik86": 6,
     "Kakashi Hatake": 6,
+    "Caronte": 6,
     "Young B": 1,
-    "RUSTA®️": 1,
+    "CONAN": 6,
+    "RUSTA®️": 6,
     "ned84": 6,
     "ishtarr": 6,
     "fedisbam": 6,
@@ -3038,6 +3041,7 @@
     "ᵛₛ✨ClishonStenx": 6,
     "sheyn": 6,
     "MajiinVeg": 6,
+    "ᵛₛ✨ Scarab": 6,
     "<LEONE>*73": 6,
     "Galaxy": 6,
     "invisibile": 6,
@@ -3050,6 +3054,7 @@
     "☁︎︎KEV☁︎︎L.K.": 6,
     "Ashura": 6,
     "lello leo": 6,
+    "Giady": 6,
     "boloultra": 6
    }
   }
@@ -3065,38 +3070,38 @@
     "boloultra": 0,
     "michele": 800,
     "ishtarr": 2950,
-    "ᵛₛ✨ Mac": 2300,
-    "Caronte": 1000,
+    "ᵛₛ✨ Mac": 4000,
+    "Caronte": 1150,
     "Svik86": 0,
     "aaaaa": 0,
-    "CONAN": 150,
+    "CONAN": 900,
     "ᵛₛ✨ClishonStenx": 0,
-    "ax": 2800,
-    "ᵛₛ✨ Kocis": 600,
+    "ax": 4000,
+    "ᵛₛ✨ Kocis": 4000,
     "NOT PEKUS": 1500,
-    "invisibile": 0,
+    "invisibile": 1400,
     "ᵛₛ✨ Andrea❤️": 600,
-    "Aron": 600,
+    "Aron": 900,
     "ned84": 600,
-    "leo": 2500,
+    "leo": 4000,
     "ᵛₛ✨Gerlando": 600,
     "l'assassino": 0,
-    "fedisbam": 0,
+    "fedisbam": 1400,
     "RUSTA®️": 4000,
     "ᵛₛ✨ Scarab": 1450,
     "Max®️": 0,
-    "Giady": 0,
+    "Giady": 500,
     "lefleurdumal": 0,
-    "<LEONE>*73": 2650,
+    "<LEONE>*73": 3850,
     "Galaxy": 0,
-    "K̸I̸L̸L̸E̸R̸☠︎︎": 0,
+    "K̸I̸L̸L̸E̸R̸☠︎︎": 1100,
     "gabriele": 0,
     "MajiinVeg": 0,
     "Vercingetorige": 0,
     "sheyn": 1500,
     "lando": 0,
     "Cesare Augustus": 0,
-    "lello leo": 2250,
+    "lello leo": 3850,
     "Kakashi Hatake": 1600,
     "Andrea": 0,
     "Young B": 0,
