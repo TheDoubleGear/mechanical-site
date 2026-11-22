@@ -3,7 +3,7 @@
   "clan": "ViCtOrY SqUaD",
   "tag": "#CYG089CY",
   "season": "Novembre 2026",
-  "updated": "2026-11-22 00:08 UTC",
+  "updated": "2026-11-22 07:16 UTC",
   "source": "api",
   "test": true,
   "info": {
@@ -112,8 +112,8 @@
   ],
   "don": {
    "src": "live",
-   "asOf": "22/11/26, 01:08",
-   "total": 54481,
+   "asOf": "22/11/26, 08:16",
+   "total": 54596,
    "by": {
     "#2PL08PGQ2": 5406,
     "#828UCPYLJ": 526,
@@ -127,9 +127,9 @@
     "#GLUGJ0UQP": 2260,
     "#L0PVQPVG8": 527,
     "#22QGLRR8U": 224,
-    "#RUG2QQ22": 302,
-    "#G9QRGVRLP": 5731,
     "#YGLRCCJQ8": 184,
+    "#G9QRGVRLP": 5731,
+    "#RUG2QQ22": 302,
     "#LJVVC8PQ2": 1228,
     "#9GLCVPL": 1772,
     "#9U8LRQUY": 94,
@@ -141,8 +141,8 @@
     "#2PLGY0LUQ": 841,
     "#LUPCPVR20": 1659,
     "#20J0VQY2J": 801,
-    "#Q0P2CG2PU": 1114,
     "#9UGRGY0YJ": 125,
+    "#Q0P2CG2PU": 1229,
     "#8U0099VY": 6716,
     "#VY2U8PYJ": 0,
     "#LLGVG8PCR": 60,
@@ -283,14 +283,14 @@
    "donations": 224
   },
   {
-   "tag": "#RUG2QQ22",
-   "name": "ax",
+   "tag": "#YGLRCCJQ8",
+   "name": "NOT PEKUS",
    "th": 19,
    "role": "admin",
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 302
+   "donations": 184
   },
   {
    "tag": "#G9QRGVRLP",
@@ -303,14 +303,14 @@
    "donations": 5731
   },
   {
-   "tag": "#YGLRCCJQ8",
-   "name": "NOT PEKUS",
+   "tag": "#RUG2QQ22",
+   "name": "ax",
    "th": 19,
    "role": "admin",
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 184
+   "donations": 302
   },
   {
    "tag": "#LJVVC8PQ2",
@@ -423,16 +423,6 @@
    "donations": 801
   },
   {
-   "tag": "#Q0P2CG2PU",
-   "name": "Giady",
-   "th": 19,
-   "role": "coLeader",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 1114
-  },
-  {
    "tag": "#9UGRGY0YJ",
    "name": "lefleurdumal",
    "th": 19,
@@ -441,6 +431,16 @@
    "lastCwl": "",
    "warPref": "out",
    "donations": 125
+  },
+  {
+   "tag": "#Q0P2CG2PU",
+   "name": "Giady",
+   "th": 19,
+   "role": "coLeader",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 1229
   },
   {
    "tag": "#8U0099VY",
