@@ -3,7 +3,7 @@
   "clan": "ViCtOrY SqUaD",
   "tag": "#CYG089CY",
   "season": "Novembre 2026",
-  "updated": "2026-11-26 22:49 UTC",
+  "updated": "2026-11-27 04:47 UTC",
   "source": "api",
   "test": true,
   "info": {
@@ -25,6 +25,13 @@
    "description": "Non siamo un clan, siamo una squadra🔥\nCostanti nella crescita, affamati di vittorie. Se hai una buona base e vuoi fare la differenza, entra ora e fatti conoscere⚔️\nInsieme ci eleviamo, insieme conquistiamo. Più uniti, più in alto, più lontano✨"
   },
   "moves": [
+   {
+    "time": "2026-11-27T02:42:15.631Z",
+    "type": "join",
+    "tag": "#VY2U8PYJ",
+    "name": "Galaxy",
+    "townHallLevel": 19
+   },
    {
     "time": "2026-11-26T22:24:49.372Z",
     "type": "join",
@@ -101,19 +108,12 @@
     "tag": "#GRCGVQ0G",
     "name": "arda",
     "townHallLevel": 19
-   },
-   {
-    "time": "2026-11-23T16:03:20.513Z",
-    "type": "join",
-    "tag": "#2PL08PGQ2",
-    "name": "DaxIlmatto",
-    "townHallLevel": 19
    }
   ],
   "don": {
    "src": "live",
-   "asOf": "26/11/26, 23:49",
-   "total": 74360,
+   "asOf": "27/11/26, 05:47",
+   "total": 74425,
    "by": {
     "#989JGRCGR": 3137,
     "#2PL08PGQ2": 0,
@@ -124,18 +124,18 @@
     "#Y9PY9J9RL": 1899,
     "#GLUGJ0UQP": 3652,
     "#QGY82J8YU": 1443,
-    "#LLGVG8PCR": 1287,
+    "#LLGVG8PCR": 1346,
     "#RUG2QQ22": 1254,
     "#22QGLRR8U": 1878,
     "#9LYL0QC": 1028,
     "#LJVVC8PQ2": 1823,
+    "#JG9U2CJC": 413,
     "#2C0L2LYQ": 709,
     "#9GLCVPL": 3047,
-    "#JG9U2CJC": 408,
     "#L0PVQPVG8": 1527,
-    "#8CULJRP9G": 468,
+    "#9U8LRQUY": 863,
     "#8U0099VY": 9754,
-    "#9U8LRQUY": 862,
+    "#8CULJRP9G": 468,
     "#2PLGY0LUQ": 1016,
     "#G82QRC09Y": 1289,
     "#LUPCPVR20": 1299,
@@ -144,6 +144,7 @@
     "#Q0P2CG2PU": 134,
     "#8GUP8VP88": 606,
     "#YGLRCCJQ8": 1064,
+    "#VY2U8PYJ": 0,
     "#280V80URU": 3634,
     "#JULVUVRP": 651,
     "#QLJLV2CYQ": 3331,
@@ -259,7 +260,7 @@
    "joined": "2026-11-20",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 1287
+   "donations": 1346
   },
   {
    "tag": "#RUG2QQ22",
@@ -302,6 +303,16 @@
    "donations": 1823
   },
   {
+   "tag": "#JG9U2CJC",
+   "name": "fedisbam",
+   "th": 19,
+   "role": "admin",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 413
+  },
+  {
    "tag": "#2C0L2LYQ",
    "name": "gabriele",
    "th": 19,
@@ -322,16 +333,6 @@
    "donations": 3047
   },
   {
-   "tag": "#JG9U2CJC",
-   "name": "fedisbam",
-   "th": 19,
-   "role": "admin",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 408
-  },
-  {
    "tag": "#L0PVQPVG8",
    "name": "CONAN",
    "th": 19,
@@ -342,14 +343,14 @@
    "donations": 1527
   },
   {
-   "tag": "#8CULJRP9G",
-   "name": "ned84",
-   "th": 18,
+   "tag": "#9U8LRQUY",
+   "name": "Aron",
+   "th": 19,
    "role": "admin",
    "joined": "2026-11-15",
    "lastCwl": "",
-   "warPref": "out",
-   "donations": 468
+   "warPref": "in",
+   "donations": 863
   },
   {
    "tag": "#8U0099VY",
@@ -362,14 +363,14 @@
    "donations": 9754
   },
   {
-   "tag": "#9U8LRQUY",
-   "name": "Aron",
-   "th": 19,
+   "tag": "#8CULJRP9G",
+   "name": "ned84",
+   "th": 18,
    "role": "admin",
    "joined": "2026-11-15",
    "lastCwl": "",
-   "warPref": "in",
-   "donations": 862
+   "warPref": "out",
+   "donations": 468
   },
   {
    "tag": "#2PLGY0LUQ",
@@ -450,6 +451,16 @@
    "lastCwl": "",
    "warPref": "in",
    "donations": 1064
+  },
+  {
+   "tag": "#VY2U8PYJ",
+   "name": "Galaxy",
+   "th": 19,
+   "role": "member",
+   "joined": "2026-11-27",
+   "lastCwl": "",
+   "warPref": "out",
+   "donations": 0
   },
   {
    "tag": "#280V80URU",
@@ -3775,7 +3786,7 @@
     "ᵛₛ✨ Mac": 4000,
     "Caronte": 1450,
     "Svik86": 4000,
-    "aaaaa": 3850,
+    "aaaaa": 4000,
     "CONAN": 1050,
     "ᵛₛ✨ClishonStenx": 4000,
     "ax": 4000,
