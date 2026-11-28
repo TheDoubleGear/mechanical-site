@@ -3,7 +3,7 @@
   "clan": "ViCtOrY SqUaD",
   "tag": "#CYG089CY",
   "season": "Novembre 2026",
-  "updated": "2026-11-27 23:14 UTC",
+  "updated": "2026-11-28 04:52 UTC",
   "source": "api",
   "test": true,
   "info": {
@@ -25,6 +25,20 @@
    "description": "Non siamo un clan, siamo una squadra🔥\nCostanti nella crescita, affamati di vittorie. Se hai una buona base e vuoi fare la differenza, entra ora e fatti conoscere⚔️\nInsieme ci eleviamo, insieme conquistiamo. Più uniti, più in alto, più lontano✨"
   },
   "moves": [
+   {
+    "time": "2026-11-27T23:36:08.019Z",
+    "type": "join",
+    "tag": "#9U8LRQUY",
+    "name": "Aron",
+    "townHallLevel": 19
+   },
+   {
+    "time": "2026-11-27T23:23:23.467Z",
+    "type": "leave",
+    "tag": "#9U8LRQUY",
+    "name": "Aron",
+    "townHallLevel": 19
+   },
    {
     "time": "2026-11-27T19:34:08.034Z",
     "type": "join",
@@ -94,29 +108,15 @@
     "tag": "#90YVGCPR",
     "name": "The_Conqueror",
     "townHallLevel": 19
-   },
-   {
-    "time": "2026-11-26T09:29:12.291Z",
-    "type": "join",
-    "tag": "#90YVGCPR",
-    "name": "The_Conqueror",
-    "townHallLevel": 19
-   },
-   {
-    "time": "2026-11-26T03:00:16.134Z",
-    "type": "join",
-    "tag": "#VY2U8PYJ",
-    "name": "Galaxy",
-    "townHallLevel": 19
    }
   ],
   "don": {
    "src": "live",
-   "asOf": "28/11/26, 00:14",
-   "total": 75998,
+   "asOf": "28/11/26, 05:52",
+   "total": 75219,
    "by": {
-    "#989JGRCGR": 3349,
-    "#2PL08PGQ2": 0,
+    "#989JGRCGR": 3438,
+    "#2PL08PGQ2": 64,
     "#828UCPYLJ": 1030,
     "#PR2CJQJG9": 94,
     "#2YLRPQJYU": 1682,
@@ -126,14 +126,14 @@
     "#QGY82J8YU": 1493,
     "#L0PVQPVG8": 2198,
     "#22QGLRR8U": 2185,
-    "#LLGVG8PCR": 1646,
+    "#LLGVG8PCR": 1738,
     "#9LYL0QC": 1136,
     "#RUG2QQ22": 1690,
     "#LJVVC8PQ2": 1828,
     "#2C0L2LYQ": 711,
-    "#9GLCVPL": 3166,
     "#JG9U2CJC": 0,
-    "#9U8LRQUY": 1079,
+    "#9GLCVPL": 3166,
+    "#9U8LRQUY": 0,
     "#8U0099VY": 10850,
     "#8CULJRP9G": 0,
     "#LUPCPVR20": 1299,
@@ -147,7 +147,7 @@
     "#VY2U8PYJ": 288,
     "#280V80URU": 4278,
     "#JULVUVRP": 766,
-    "#QLJLV2CYQ": 0,
+    "#QLJLV2CYQ": 55,
     "#2U8V000L": 456,
     "#Q0PCUL8R": 1199,
     "#20J0VQY2J": 1091,
@@ -169,7 +169,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 3349
+   "donations": 3438
   },
   {
    "tag": "#2PL08PGQ2",
@@ -179,7 +179,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 0
+   "donations": 64
   },
   {
    "tag": "#828UCPYLJ",
@@ -279,7 +279,7 @@
    "joined": "2026-11-20",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 1646
+   "donations": 1738
   },
   {
    "tag": "#9LYL0QC",
@@ -322,16 +322,6 @@
    "donations": 711
   },
   {
-   "tag": "#9GLCVPL",
-   "name": "ᵛₛ✨ Andrea❤️",
-   "th": 19,
-   "role": "coLeader",
-   "joined": "2026-11-15",
-   "lastCwl": "",
-   "warPref": "in",
-   "donations": 3166
-  },
-  {
    "tag": "#JG9U2CJC",
    "name": "fedisbam",
    "th": 19,
@@ -342,14 +332,24 @@
    "donations": 0
   },
   {
-   "tag": "#9U8LRQUY",
-   "name": "Aron",
+   "tag": "#9GLCVPL",
+   "name": "ᵛₛ✨ Andrea❤️",
    "th": 19,
-   "role": "admin",
+   "role": "coLeader",
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 1079
+   "donations": 3166
+  },
+  {
+   "tag": "#9U8LRQUY",
+   "name": "Aron",
+   "th": 19,
+   "role": "member",
+   "joined": "2026-11-15",
+   "lastCwl": "",
+   "warPref": "in",
+   "donations": 0
   },
   {
    "tag": "#8U0099VY",
@@ -489,7 +489,7 @@
    "joined": "2026-11-15",
    "lastCwl": "",
    "warPref": "in",
-   "donations": 0
+   "donations": 55
   },
   {
    "tag": "#2U8V000L",
@@ -3670,7 +3670,10 @@
      null
     ],
     "K̸I̸L̸L̸E̸R̸☠︎︎": [
-     null,
+     {
+      "s": 2,
+      "eth": 19
+     },
      null
     ],
     "ᵛₛ✨ Rikas": [
@@ -3715,7 +3718,10 @@
      null
     ],
     "fedisbam": [
-     null,
+     {
+      "s": 3,
+      "eth": 19
+     },
      null
     ],
     "viruss": [
@@ -3726,7 +3732,10 @@
      null
     ],
     "Aron": [
-     null,
+     {
+      "s": 3,
+      "eth": 19
+     },
      null
     ],
     "ᵛₛ✨ Mac": [
